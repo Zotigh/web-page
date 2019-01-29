@@ -31,8 +31,8 @@
 	
 ### Elevator Pitch 
 		
-       +Hello my name is Lance. My aim is to make well made programs across multiple platforms 
-        utilizing what I have learned. I do this so I may have a better future for everyone.
-	  I plan to use the coding skills I have learned to help acomplish this. 
+       + Hello my name is Lance. My aim is to make well made programs across multiple platforms 
+         utilizing what I have learned. I do this so I may have a better future for everyone.
+	 I plan to use the coding skills I have learned to help acomplish this. 
 	 Are you interested in the same thing?
 	
