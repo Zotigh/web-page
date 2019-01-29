@@ -34,4 +34,9 @@
 + Hello my name is Lance. My aim is to make well made programs across multiple platforms 
    utilizing what I have learned. I do this so I may have a better future for everyone. I plan to
    use the coding skills I have learned to help acomplish this. Are you interested in the same thing?
+## What i learned this week
+
+* I learned about how methods are invoked to create functions in a system. After starting this week I feel
+   more knolegable if by a little about java code. This makes me feel even if a little acomplished. I look
+   forward to continuing and hope I can learn as much as the instructer has to offer.
 	
