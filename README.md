@@ -35,9 +35,10 @@
    utilizing what I have learned. I do this so I may have a better future for everyone. I plan to
    use the coding skills I have learned to help acomplish this. Are you interested in the same thing?
 
-## What I learned this week
+## Weekly Reflections
 
-* I learned about how methods are invoked to create functions in a system. After starting this week I feel
+* (Week 1) I learned about how methods are invoked to create functions in a system. After starting this week I feel
    more knolegable if by a little about java code. This makes me feel even if a little acomplished. I look
    forward to continuing and hope I can learn as much as the instructer has to offer.
-	
+   
+* (Week 2) This week I feel like went by pretty quick. Learning about structios and the most efficent ways to set them up is something I really find interestiong and can't wait to learn more.	
