@@ -13,7 +13,7 @@
 * (First picture) This is how I think of my life right now. 
 Everything is uncertain I see the path that I need to take but there are so many holes everywhere. 
 I feel like one wrong move and its all over. 
-The only thing I have to do is overcome all of this which I am no stranger to. 
+The only thing I have to do is overcome all of this, which I am no stranger to. 
 
 * (Second picture) This is my light at the end of the tunnel. 
 Everyone just wants to be free. I am no different in that way. 
