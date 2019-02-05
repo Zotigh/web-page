@@ -4,6 +4,7 @@
 * [Linkedin](https://www.linkedin.com/in/lance-zotigh-41b55b16b/)
 * [Github](https://github.com/Zotigh)
 * [(LZ)Resume.pdf](https://github.com/Zotigh/web-page/files/2833466/LZ.Resume.pdf)
+* [Summary on googling self.pdf](https://github.com/Zotigh/web-page/files/2833469/Summary.on.googling.self.pdf)
 
 ## My name is Lance Zotigh, I have enjoyed computers my whole life and want to make a career out of something I enjoy.
 
