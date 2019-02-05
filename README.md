@@ -57,4 +57,4 @@ Much like how I want my future to be.
    more knolegable if by a little about java code. This makes me feel even if a little acomplished. I look
    forward to continuing and hope I can learn as much as the instructer has to offer.
    
-* (Week 2) This week I feel like went by pretty quick. Learning about structures and the most efficent ways to set them up is something I really find interestiong and can't wait to learn more.	
+* (Week 2) Learning about structures and the most efficent ways to set them up is something I really find interesting. This is something I know will benefit me when implimented in the future. This is also helping cement my mind in a more constructive manner twards commputer programming and its structure. I can only get better and aim to.	
