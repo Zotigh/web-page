@@ -3,7 +3,7 @@
 ## Links 
 * [Linkedin](https://www.linkedin.com/in/lance-zotigh-41b55b16b/)
 * [Github](https://github.com/Zotigh)
-* [(LZ)Resume.pdf](https://github.com/Zotigh/web-page/files/2833466/LZ.Resume.pdf)
+* [(LanceZotigh)Resume.pdf](https://github.com/Zotigh/web-page/files/2833466/LZ.Resume.pdf)
 * [Summary on googling self.pdf](https://github.com/Zotigh/web-page/files/2833469/Summary.on.googling.self.pdf)
 
 ## Visuals Speaks
