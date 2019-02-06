@@ -25,8 +25,8 @@ Much like how I want my future to be.
 
 ![20190206_125236](https://user-images.githubusercontent.com/45951684/52370680-c4bbdc00-2a10-11e9-8187-8f3cb33af968.jpg)
 
-### Who I am
-## My name is Lance Zotigh, I have enjoyed computers my whole life and want to make a career out of something I enjoy.
+## Who I am
+### My name is Lance Zotigh, I have enjoyed computers my whole life and want to make a career out of something I enjoy.
 
 ## Qualitative Accomplishments 
 * 13+ years of education
