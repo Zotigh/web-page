@@ -20,6 +20,10 @@ Everyone just wants to be free. I am no different in that way.
 No one tells the clouds how they should be formed. 
 Much like how I want my future to be.
 
+## Stove top(cooking up opportunities)
+
+![20190206_125236](https://user-images.githubusercontent.com/45951684/52370160-765a0d80-2a0f-11e9-9543-330d7944e64e.jpg)
+
 ## My name is Lance Zotigh, I have enjoyed computers my whole life and want to make a career out of something I enjoy.
 
 ## Qualitative Accomplishments 
