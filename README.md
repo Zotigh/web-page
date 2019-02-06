@@ -22,7 +22,8 @@ Much like how I want my future to be.
 
 ## Stove top(cooking up opportunities)
 
-![20190206_130729](https://user-images.githubusercontent.com/45951684/52370529-6989e980-2a10-11e9-9be3-72a5e10f71dd.jpg)
+
+![20190206_125236](https://user-images.githubusercontent.com/45951684/52370680-c4bbdc00-2a10-11e9-8187-8f3cb33af968.jpg)
 
 ## My name is Lance Zotigh, I have enjoyed computers my whole life and want to make a career out of something I enjoy.
 
