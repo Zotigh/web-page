@@ -5,10 +5,8 @@
 * [Github](https://github.com/Zotigh)
 * [(LanceZotigh)Resume.pdf](https://github.com/Zotigh/web-page/files/2833466/LZ.Resume.pdf)
 * [Summary on googling self.pdf](https://github.com/Zotigh/web-page/files/2833469/Summary.on.googling.self.pdf)
-
-[Visuals Speaks](VisualsSpeaks.md)
-
-![20190206_125236](https://user-images.githubusercontent.com/45951684/52370680-c4bbdc00-2a10-11e9-8187-8f3cb33af968.jpg)
+* [Visuals Speaks](VisualsSpeaks.md)
+* [StoveTop Activity](StoveTop.jpg)
 
 ## Who I am
 ### My name is Lance Zotigh, I have enjoyed computers my whole life and want to make a career out of something I enjoy.
