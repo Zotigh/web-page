@@ -4,6 +4,8 @@
 * [Linkedin](https://www.linkedin.com/in/lance-zotigh-41b55b16b/)
 * [Github](https://github.com/Zotigh)
 * [(LanceZotigh)Resume.pdf](https://github.com/Zotigh/web-page/files/2833466/LZ.Resume.pdf)
+
+## Pro Dev 
 * [Summary on googling self.pdf](https://github.com/Zotigh/web-page/files/2833469/Summary.on.googling.self.pdf)
 * [Visuals Speaks](VisualsSpeaks.md)
 * [StoveTop Activity](StoveTop.jpg)
