@@ -7,7 +7,7 @@
 
 ## Pro Dev 
 * [Summary on googling self.pdf](https://github.com/Zotigh/web-page/files/2833469/Summary.on.googling.self.pdf)
-* [Visuals Speaks](VisualsSpeaks.md)
+* [Visuals Speaks](VisualSpeaks.md)
 * [StoveTop Activity](StoveTop.jpg)
 
 ## Who I am
