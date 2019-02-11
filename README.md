@@ -9,6 +9,7 @@
 * [Summary on googling self.pdf](https://github.com/Zotigh/web-page/files/2833469/Summary.on.googling.self.pdf)
 * [Visuals Speaks](VisualSpeaks.md)
 * [StoveTop Activity](StoveTop.jpg)
+* [Requests for Organizations](Orgs Request.txt)
 
 ## Who I am
 ### My name is Lance Zotigh, I have enjoyed computers my whole life and want to make a career out of something I enjoy.
@@ -48,4 +49,6 @@
    more knolegable if by a little about java code. This makes me feel even if a little acomplished. I look
    forward to continuing and hope I can learn as much as the instructer has to offer.
    
-* (Week 2) Learning about structures and the most efficent ways to set them up is something I really find interesting. This is something I know will benefit me when implimented in the future. This is also helping cement my mind in a more constructive manner twards commputer programming and its structure. I can only get better and aim to.	
+* (Week 2) Learning about structures and the most efficent ways to set them up is something I really find interesting. This is something I know will benefit me when implimented in the future. This is also helping cement my mind in a more constructive manner twards commputer programming and its structure. I can only get better and aim to.
+
+* (Week 3) Beginning to learn to use DataBases this week is really a thing I know will help me in my path to becoming a compiuter developer. Since this is something I'm taking a liking to I know it will make me more valueable as a up and coming computer programmer if I can master it.  
