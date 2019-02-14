@@ -10,6 +10,7 @@
 * [Visuals Speaks](VisualSpeaks.md)
 * [StoveTop Activity](StoveTop.jpg)
 * [Requests for Organizations](orgsRequest.txt)
+* [Forbidden Island](ForbiddenIsland.md)
 
 ## Who I am
 ### My name is Lance Zotigh, I have enjoyed computers my whole life and want to make a career out of something I enjoy.
