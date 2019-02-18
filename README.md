@@ -12,7 +12,7 @@
 * [Requests for Organizations](orgsRequest.txt)
 * [Forbidden Island TeamBuilder](ForbiddenIsland.md)
 * [The Covenant](https://github.com/Zotigh/web-page/blob/master/theCovenant.md)
-* [Collaboration Q&A](https://github.com/Zotigh/web-page/blob/master/Collabiration%20Q%20and%20A)
+* [Collaboration Q&A](https://github.com/Zotigh/web-page/blob/master/CollabirationQandA.md)
 
 ## Who I am
 ### My name is Lance Zotigh, I have enjoyed computers my whole life and want to make a career out of something I enjoy.
