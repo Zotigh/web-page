@@ -53,3 +53,5 @@
 * (Week 2) Learning about structures and the most efficent ways to set them up is something I really find interesting. This is something I know will benefit me when implimented in the future. This is also helping cement my mind in a more constructive manner twards commputer programming and its structure. I can only get better and aim to.
 
 * (Week 3) Beginning to learn to use DataBases this week is really a thing I know will help me in my path to becoming a compiuter developer. Since this is something I'm taking a liking to I know it will make me more valueable as a up and coming computer programmer if I can master it.  
+
+* (week 4) Furthering my knowledge of how to debug a problem and fix it was something I did very well in this week. I know this will be a key in helping me make efficent bug free apps for my clients.
