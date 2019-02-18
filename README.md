@@ -11,7 +11,7 @@
 * [StoveTop Activity](StoveTop.jpg)
 * [Requests for Organizations](orgsRequest.txt)
 * [Forbidden Island TeamBuilder](ForbiddenIsland.md)
-* [https://github.com/project-progression-system/ground-rules/blob/master/README.md](The Covenant)
+* [https://github.com/project-progression-system/ground-rules/blob/master/README.md]( The Covenant)
 ## Who I am
 ### My name is Lance Zotigh, I have enjoyed computers my whole life and want to make a career out of something I enjoy.
 
