@@ -57,3 +57,5 @@
 * (Week 3) Beginning to learn to use DataBases this week is really a thing I know will help me in my path to becoming a compiuter developer. Since this is something I'm taking a liking to I know it will make me more valueable as a up and coming computer programmer if I can master it.  
 
 * (week 4) Furthering my knowledge of how to debug a problem and fix it was something I did very well in this week. I know this will be a key in helping me make efficent bug free apps for my clients.
+
+* (week 5) Heading forward with my android project, I am learning about how fragments and drawer navigation. This is very key in helping make apps in general. I can see my future projects utilizing this simple but complex process to make for a smooth app that relies on navigation.
